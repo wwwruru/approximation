@@ -1,0 +1,3 @@
+﻿  aproxim.cpp
+C:\Users\Костя\Desktop\Новая папка (2)\aproxim\aproxim.cpp(8,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  aproxim.vcxproj -> C:\Users\Костя\Desktop\Новая папка (2)\aproxim\x64\Debug\aproxim.exe
